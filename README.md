@@ -1,1 +1,2 @@
 # Car-black-box
+Designed and implemented a car black box system using the PIC18F4580 microcontroller to monitor and record vehicle parameters. The system captured data such as speed, temperature, and engine status, storing it for analysis in case of accidents or malfunctions. Integrated sensors and communication protocols for real-time data acquisition and ensured reliability and accuracy in recording critical events.
